@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Portfolio project Taste landing (restaurant)
+This repository is demonstrated a possible solution of visualization of the layout design of the bose landing page.
+
+The main purpose of this project is mastering HTML & CSS.
+
+- [DEMO LINK](https://v-vytrykush.github.io/taste-landing/)
+- [Design](https://www.figma.com/file/dVBa7wx6E0y2wiSODQdhut/Untitled?node-id=2%3A225)
+
+Tech stack: HTML5, SASS, JS
+
+Responsive design
